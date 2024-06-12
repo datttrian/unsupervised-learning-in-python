@@ -2,6 +2,8 @@
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datttrian/unsupervised-learning-in-python/blob/main/src/notebook.ipynb)
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datttrian/unsupervised-learning-in-python)
+
 This is the repository for the DataCamp course Unsupervised Learning in Python. The
 full course is available from [DataCamp](https://www.datacamp.com/courses/unsupervised-learning-in-python).
 
